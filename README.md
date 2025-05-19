@@ -24,6 +24,12 @@ Compartilhe o link do repositório do Git remoto para corrigirmos seu projeto.
 
 Divirta-se!
 
+# Rodando pelo Docker Hub
+
+```bash
+docker run emalherbi/fullcycle
+```
+
 # Comandos
 
 - Build da imagem:
